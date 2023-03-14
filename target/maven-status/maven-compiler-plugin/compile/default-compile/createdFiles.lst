@@ -1,4 +1,5 @@
 org\workfully\model\OperationTracker.class
 org\workfully\controllers\OperationTrackerController.class
 org\workfully\http\GetStats.class
+org\workfully\http\HomePage.class
 org\workfully\http\UpdateStats.class
