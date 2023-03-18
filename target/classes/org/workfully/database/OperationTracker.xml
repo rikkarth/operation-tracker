@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<operationTracker>
+    <pageRequests>30</pageRequests>
+    <allProductsRequests>8</allProductsRequests>
+    <productDetailsRequests>23</productDetailsRequests>
+    <searchRequests>2</searchRequests>
+    <searchByCategoryRequests>2</searchByCategoryRequests>
+    <categoriesRequests>2</categoriesRequests>
+</operationTracker>
